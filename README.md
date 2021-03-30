@@ -33,6 +33,9 @@ cont = cont + 1
  
 
 print ( " O maior Valor é {:.2f}". format( maior))
+
 print ( " O menor Valor é {:.2f}". format( menor))
+
 print ( " O numero de valores digitados é {:.2f}". format( cont))
+
 print ( " A media dos valores digitados é {:.2f}". format(soma/cont))
